@@ -1,0 +1,24 @@
+PODS:
+  - HaishinKit (1.2.7):
+    - Logboard (~> 2.2.2)
+  - Logboard (2.2.4)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - HaishinKit (~> 1.2.7)
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - HaishinKit
+    - Logboard
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  HaishinKit: 5463efd52fa4de2018db95547a5b09ce50495444
+  Logboard: 660364cbd45aa42fd79637f0cdfba3c950c613d8
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: 22aa436a1f3954aaeaeb37fed4c0edd935180b75
+
+COCOAPODS: 1.11.3
